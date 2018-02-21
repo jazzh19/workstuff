@@ -1,0 +1,29 @@
+#main {
+  text-align: center;
+}
+
+body {
+  background-color: #fff4db;
+}
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+#show-fact {
+    background-color: #48e2ea; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 64px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+#show-fact:focus {
+    outline:0;
+}
